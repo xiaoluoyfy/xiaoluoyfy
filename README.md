@@ -1,7 +1,7 @@
 # Young.github.io
-My homepage
+[My kaggle profile](kaggle.com/mahluo)
 
-Some updates from Young
+Kaggle Grandmaster(Highest #56) /SCU master/Bank Risk Model& Algorith
 
 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mahluo/competition)
