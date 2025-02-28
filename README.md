@@ -1,7 +1,6 @@
 # Young For You
-[My kaggle profile](kaggle.com/mahluo)
+[My kaggle profile](www.kaggle.com/mahluo)
 
 **Kaggle Grandmaster(Highest #42)** /SCU master/Bank Risk Model& Algorithm
 
 
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mahluo/competition)
